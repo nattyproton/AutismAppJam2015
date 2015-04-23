@@ -1,0 +1,95 @@
+.nav {
+  background-color:#004280;
+  padding-bottom:0px;
+}
+
+.nav a {
+  color: #fff;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.flashcards {
+  width: 100%;
+  height: 100%;
+}
+.container-fluid .col-md-10 {
+  margin-top:25px;
+  background-image:url('zout.jpg');
+  width:800px;
+  height:610px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position:relative;
+  left:100px;
+  border-top:2px solid #0064a4;
+  border-right:2px solid #0064a4;
+  border-bottom:2px solid #0064a4;
+  border-left:2px solid #0064a4;
+}
+
+.container-fluid .col-md-2 {
+  position:relative;
+  left:150px;
+}
+
+.container-fluid .col-md-2 .test{
+  border-top:2px solid #ffd200;
+  border-right:2px solid #ffd200;
+  border-bottom:2px solid #ffd200;
+  border-left:2px solid #ffd200;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #0064a4;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.learn-more .container .row .col-md-4{
+  border-top:2px solid #ffd200;
+  border-right:2px solid #ffd200;
+  border-bottom:2px solid #ffd200;
+  border-left:2px solid #ffd200;
+}
+
+.directions {
+  padding-bottom:50px;
+}
+.directions h3 {
+  color:#0064a4;
+}
+
+.h3 h3 {
+  color:#0064a4;
+}
+
+.footer {
+  background-color:#333;
+  border-bottom:2px solid #333;
+  padding-top:8px;
+  padding-bottom:0px;
+}
+
+.footer a {
+  color: #fff;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.footer li {
+  display: inline;
+}
